@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.db
+.vscode/
+.idea/
+.streamlit/secrets.toml
+ml/models/*.joblib

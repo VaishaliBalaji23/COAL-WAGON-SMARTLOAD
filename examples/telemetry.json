@@ -1,0 +1,16 @@
+{
+  "wagon_id": "BOXN-123456",
+  "siding_id": "Siding-01",
+  "wagon_type": "BOXN",
+  "gross_weight_kg": 57000,
+  "target_weight_kg": 58000,
+  "pll_limit_kg": 60500,
+  "left_pct": 50,
+  "right_pct": 50,
+  "front_pct": 51,
+  "rear_pct": 49,
+  "scenario": "Normal Continuous Loading",
+  "cross_validation_error_pct": 0.3,
+  "loading_rate_kg_min": 320,
+  "maintenance_risk_pct": 12
+}
